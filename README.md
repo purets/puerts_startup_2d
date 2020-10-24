@@ -26,7 +26,7 @@
   **当前默认包含模块:(插件会根据需要修改, 自行更新插件可能需要删除模块或者模块下 Plugins 目录相关内容)**
   
   * **[Game]** `app.game/` 基础模块
-  * **[Puerts]** `app.puerts/` Puerts 插件
+  * **[Puerts]** `app.puerts/` [Puerts](https://github.com/Tencent/puerts) 插件
     * 当前版本: **[Tag:v1.0.5,Plugin_Version:7](https://github.com/Tencent/puerts/releases/tag/v1.0.5)**
   * **[SQLite4Unity]** `app.sqlite/` SQLite 插件
   * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
