@@ -19,13 +19,13 @@
     
 # 基于 NICE-TS 框架扩展
 
-Puerts 热更新框架 [NICE-TS](https://github.com/Justin-sky/Nice-TS)
+- Puerts 热更新框架 [NICE-TS](https://github.com/Justin-sky/Nice-TS)
 
-* Addressables 资源管理
-* UI集成 FairyGUI
-* 渲染管线: URP
-* 网络模块: protobufjs
-* Excel 导出 TS 工具 [NiceET](https://github.com/Justin-sky/Nice-ET/tree/master/Tools/ExcelExporter)
+  * Addressables 资源管理
+  * UI集成 FairyGUI
+  * 渲染管线: URP
+  * 网络模块: protobufjs
+  * Excel 导出 TS 工具 [NiceET](https://github.com/Justin-sky/Nice-ET/tree/master/Tools/ExcelExporter)
 
 
 ## 运行环境
