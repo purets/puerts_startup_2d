@@ -21,7 +21,7 @@
   | **Packages/app.puerts/** | [2d_startup-app.puerts](https://github.com/purets/2d_startup-app.puerts/archive/main.zip) |
   | **Packages/unity-ui-extensions/** | [unity-ui-extensions](https://github.com/purets/unity-ui-extensions/archive/main.zip) |
   | **Packages/app.web_api/** | [2d_startup-app.web_api](https://github.com/purets/2d_startup-app.web_api/archive/main.zip) |
-  | **Packages/app.domino/** | [2d_startup-app.domino](https://github.com/purets/2d_startup-app.domino/archive/main.zip) |
+  | **Packages/app.tomino/** | [2d_startup-app.tomino](https://github.com/purets/2d_startup-app.tomino/archive/main.zip) |
   | **Packages/app.dungeon/** | [2d_startup-app.dungeon](https://github.com/purets/2d_startup-app.dungeon/archive/main.zip) |
   | **Packages/app.ui/** | [2d_startup-app.ui](https://github.com/purets/2d_startup-app.ui/archive/main.zip) |
   | **Packages/app.sqlite/** | [2d_startup-app.sqlite](https://github.com/purets/2d_startup-app.sqlite/archive/main.zip) |
