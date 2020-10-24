@@ -23,7 +23,7 @@
 
   功能模块位于 `Packages/` 下, 可以选择性删除, 删除模块时需要注意模块间的依赖关系, 可能需要重新执行菜单项`puerts/Clear Generated Code` 和 `puerts/Generate Code` 重新生成接口文件
   
-  **当前默认包含模块:(插件会根据需要修改, 自行更新插件可能需要删除模块或者模块下 Plugins 目录相关内容)**
+  **当前默认包含模块
   
   * **[Game]** `app.game/` 基础模块
   * **[Puerts]** `app.puerts/` [Puerts](https://github.com/Tencent/puerts) 插件
