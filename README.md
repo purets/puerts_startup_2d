@@ -13,14 +13,14 @@
     
 - **手动下载子模块** 如果使用 zip 方式下载本项目, 请同时下载下面的子模块并按原来的名字解压到 `Packages/` 文件夹里面
 
-  * **Packages/app.game/** [2d_startup-app.game](https://github.com/purets/2d_startup-app.game/archive/main.zip)
-  * **Packages/app.puerts/** [2d_startup-app.puerts](https://github.com/purets/2d_startup-app.puerts/archive/main.zip)
-  * **Packages/unity-ui-extensions/** [unity-ui-extensions](https://github.com/purets/unity-ui-extensions/archive/main.zip)
-  * **Packages/app.web_api/** [2d_startup-app.web_api](https://github.com/purets/2d_startup-app.web_api/archive/main.zip)
-  * **Packages/app.domino/** [2d_startup-app.domino](https://github.com/purets/2d_startup-app.domino/archive/main.zip)
-  * **Packages/app.dungeon/** [2d_startup-app.dungeon](https://github.com/purets/2d_startup-app.dungeon/archive/main.zip)
-  * **Packages/app.ui/** [2d_startup-app.ui](https://github.com/purets/2d_startup-app.ui/archive/main.zip)
-  * **Packages/app.sqlite/** [2d_startup-app.sqlite](https://github.com/purets/2d_startup-app.sqlite/archive/main.zip)
+  * **Packages/app.game/** ................ [2d_startup-app.game](https://github.com/purets/2d_startup-app.game/archive/main.zip)
+  * **Packages/app.puerts/** .............. [2d_startup-app.puerts](https://github.com/purets/2d_startup-app.puerts/archive/main.zip)
+  * **Packages/unity-ui-extensions/** ..... [unity-ui-extensions](https://github.com/purets/unity-ui-extensions/archive/main.zip)
+  * **Packages/app.web_api/** ............. [2d_startup-app.web_api](https://github.com/purets/2d_startup-app.web_api/archive/main.zip)
+  * **Packages/app.domino/** .............. [2d_startup-app.domino](https://github.com/purets/2d_startup-app.domino/archive/main.zip)
+  * **Packages/app.dungeon/** ............. [2d_startup-app.dungeon](https://github.com/purets/2d_startup-app.dungeon/archive/main.zip)
+  * **Packages/app.ui/** .................. [2d_startup-app.ui](https://github.com/purets/2d_startup-app.ui/archive/main.zip)
+  * **Packages/app.sqlite/** .............. [2d_startup-app.sqlite](https://github.com/purets/2d_startup-app.sqlite/archive/main.zip)
 
   
 - **Typescript 项目**
