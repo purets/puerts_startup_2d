@@ -2,15 +2,15 @@
 ## 下载安装
 - 本项目包含用子模块进行管理, 直接下载Zip文件会缺失 Packages/* 的功能模块, git 下载方式
 
-    git clone --recursive https://github.com/purets/puerts_startup_2d.git
+        git clone --recursive https://github.com/purets/puerts_startup_2d.git
     
 - 如果你不确定子模块是否都已经下载完全了，也可以执行一遍这个命令确认一下。(需要在项目根目录执行)
 
-    git submodule update --init --recursive
+        git submodule update --init --recursive
     
 - FairyGUI 项目: 
 
-用 FairyGUI 程序打开项目文件`FairyGUI-Editor/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
+        用 FairyGUI 程序打开项目文件`FairyGUI-Editor/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
 
     
 # NICE-TS
