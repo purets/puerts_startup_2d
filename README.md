@@ -23,12 +23,12 @@
   **当前默认包含模块:**
   
   * **[Game]** `app.game/` 基础模块
-  * **[Puerts]** `app.puerts/` Puerts插件
-  * **[SQLite4Unity]** `app.sqlite/` SQLite插件
+  * **[Puerts]** `app.puerts/` Puerts 插件
+  * **[SQLite4Unity]** `app.sqlite/` SQLite 插件
   * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
   * **[FairyGUI]** `app.ui/` FairyGUI 功能模块
   * **[Web Api]** `app.web-api/` Web 功能模块
-  * **[unity-ui-extension]** `unity-ui-extension/` UGUI扩展插件
+  * **[unity-ui-extension]** `unity-ui-extension/` UGUI 扩展插件
 
     
 ## 基于 NICE-TS 框架扩展
@@ -36,7 +36,7 @@
 - Puerts 热更新框架 [NICE-TS](https://github.com/Justin-sky/Nice-TS)
 
   * Addressables 资源管理
-  * UI集成 FairyGUI
+  * FairyGUI
   * 渲染管线: URP
   * 网络模块: protobufjs
   * Excel 导出 TS 工具 [NiceET](https://github.com/Justin-sky/Nice-ET/tree/master/Tools/ExcelExporter)
@@ -51,15 +51,15 @@
 
 - [新手指南](https://zhuanlan.zhihu.com/p/206578729)
 
-- [FairyGUI使用说明](https://zhuanlan.zhihu.com/p/213926253)
+- [FairyGUI 使用说明](https://zhuanlan.zhihu.com/p/213926253)
 
-- [Addressable配置说明文档](https://zhuanlan.zhihu.com/p/184846532)
+- [Addressable 配置说明文档](https://zhuanlan.zhihu.com/p/184846532)
 
-- [Protobufjs集成文档，64位精度问题解决方案](https://zhuanlan.zhihu.com/p/205342984)
+- [Protobufjs 集成文档，64 位精度问题解决方案](https://zhuanlan.zhihu.com/p/205342984)
 
-- [Excel工具](https://zhuanlan.zhihu.com/p/216183764)
+- [Excel 工具](https://zhuanlan.zhihu.com/p/216183764)
 
-- QQ群：346340389
+- QQ 群：346340389
 
 
 
