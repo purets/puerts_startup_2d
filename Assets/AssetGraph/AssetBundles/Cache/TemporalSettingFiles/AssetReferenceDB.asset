@@ -689,4 +689,356 @@ MonoBehaviour:
     m_importFrom: Assets/AssetGraph/AddressableAssetGraph.asset
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: fed5f7419983fbf4596a8739fe5dd048
+    m_importFrom: Packages/app.puerts/Puerts/Editor/Generator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f47ebef04d4731a4ba5709604b8d4ec6
+    m_importFrom: Assets/Gen
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7ca5020a3f9547429682947ab8b51ca
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_UI_Toggle_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c37c2207a716ac45944ead39ecad742
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GMovieClip_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0aaca9a089e0290459dc9f4b00ef5c5c
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Logger_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6bc808f06672eff4383acc330c0f6fec
+    m_importFrom: Assets/Gen/Scripts/Framework/Framework_Network_TCP_TChannel_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 90cb78719bb827f478fbc1b8582b5f02
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GGroup_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 493b4b12336dba9448abbac91816e1a9
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GComponent_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 698cbe228152c8d48862461d19135ac4
+    m_importFrom: Assets/Gen/Scripts/Framework
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb348f22d2787e1499650a9cbce61c10
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Application_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0abcc52128a6f44fb9e33aae98d1b55
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Events_UnityEvent_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b48fc52ad739734a8e3e5ecfc678bd5
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_EventListener_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ef94f82df763694c91caf3e7183c603
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_EventSystems_UIBehaviour_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ca8b192b3a7297408b629fbb447d257
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_UI_Button_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf3a5ba2eaaac1c4cacbcfd2a725f7f4
+    m_importFrom: Assets/Gen/Scripts/GameLaunch
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e92c24d24ad3e5d48994839fbacdae49
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Component_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb42fde2c1666244b96cdb27ace1b5d3
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_UIObjectFactory_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d3c675130d158d74fa774b2e4f6b4a76
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GImage_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8ee8f543d8990094fbd30801a5a49e38
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GSlider_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 14585253bec2ebe4da7e2e711d3b604c
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_AsyncOperation_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6d7ed63ad727994cb5ee3a959c07de4
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_SceneManagement_Scene_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52127f63fdf183841ab2fcecc9fb3e61
+    m_importFrom: Assets/Gen/Scripts/Common/Common_Singleton_MonoSingleton_1_Framework_Network_TCP_TService__Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8e9e173b2e2ad24ca40767812bc4e49
+    m_importFrom: Assets/Gen/Typing
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2cbedf73ddc31bd4d92f3366e9a97b7b
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Debug_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c89215932cdc311428c1a2e285d57d50
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_Stage_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0aae2a24eb5cb044b9f09ff4faa11008
+    m_importFrom: Assets/Gen/Scripts/Framework/Framework_Network_TCP_TService_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0672c154d01f0a645b0a59164bde7dfc
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_UI_Selectable_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b7fc984a48efc94abd90fe55af49a66
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_UIPackage_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30bc87c49def9154e92b9720c413cd2a
+    m_importFrom: Assets/Gen/Scripts/UnityEngine
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: acda8f051128af74baf187ee8bd04163
+    m_importFrom: Assets/Gen/Scripts/System/System_Object_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11af5345e25bbee469f9f13e43703a04
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Time_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 584a5e55903e51b43b02637b5e46c419
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_Relations_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1819d38555fe68941b2584e671645680
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_Window_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e65c458592b4b2a4f8afc45ec92d45b6
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GList_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e850da5ddcb6e543bb99b0ecc8bddbc
+    m_importFrom: Assets/Gen/Scripts/Framework/Framework_Addressables_ResourceManager_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 205be4065c0ea4c4688989b435447005
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_Controller_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77604186b56f1ba47869db5b87b0988a
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_UI_Toggle_ToggleEvent_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eb190296c819ba744a7d1b791a0ffc03
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Transform_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f2f058d6e4fccee449e4d1a6ac553ffb
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_UI_InputField_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d3e581578b676b24cb1d09427f2f1379
+    m_importFrom: Assets/Gen/Scripts
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6a089a5736ba16f42bdaa6b8cf903bb9
+    m_importFrom: Assets/Gen/Scripts/System/System_Type_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b4f29c7cc7ef1a43a8f47d962148471
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Object_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba37a9d7691a94d46900e21ee3927788
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GTweener_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 158ec23869c3c654193f8145dd119f80
+    m_importFrom: Assets/Gen/Typing/csharp
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9793525826274d24db235ab7c4ec7881
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_SceneManagement_SceneManager_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4bd3578378a6cb489a32f7eb2a9673e
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Events_UnityEvent_1_System_Boolean__Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a32a86c8193ad474ebc97d8085a21285
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Vector3_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 32ef1fd822300c04a9c0e270f19c3d14
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_DisplayObject_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2caec8e8d47a9874fbdf6d24cb0fdf46
+    m_importFrom: Assets/Gen/Scripts/Puerts
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18d47a490f0297e4aae6c06fbfd7d3eb
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GTextInput_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b27d615976654004e855356669613373
+    m_importFrom: Assets/Gen/Scripts/Common
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3708de993b31f804f8e69e24d72d2121
+    m_importFrom: Assets/Gen/Scripts/System
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2980a3a9b8b8b9b499f2ec5e14ee5322
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_Timers_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f743dd95db3f164981ae4984a05415e
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_TextFormat_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 044982e9215b5204f9c03bf3fc438a9a
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_EventContext_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 664e36f938f95324f96f3aea09f145a0
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_InputEvent_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d379621ac0247164097dff843d30c77f
+    m_importFrom: Assets/Gen/Scripts/FairyGUI
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8778003a0acc15646ba8727e873be420
+    m_importFrom: Assets/Gen/Scripts/GameLaunch/GameLaunch_GameLaunch_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7690b99a791af7b4a8ff2652e3dcda8d
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GComboBox_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7fdc19da048b428448bbc71560a496d4
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_TweenValue_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6dc1fadaa01050d4abf2112d197b75ce
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GRoot_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e84bcbdaec1f99b4398e633c3b76a2ea
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GTween_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 14cd2cdacd9fde44d9156e3315104f85
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GRichTextField_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bea7123bc9859a547aa8d096575da29f
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Canvas_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5b3b05b9194a4946970c0b65bbe0f10
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GObjectPool_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1886678bcee8e274392ad6c80a2c5bdf
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GLabel_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2308bbb1eaff2349a25064fe48d795e
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GTextField_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7bc583ccb99f5b4a9cfca4d184515a8
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GProgressBar_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d6b586c479917c4eae1dd27b2e6dde6
+    m_importFrom: Assets/Gen/Scripts/System/System_Delegate_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8a1169c3ec217945a16ae3d4dfea12e
+    m_importFrom: Assets/Gen/Scripts/AutoStaticCodeRegister.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c0ae69c99fbf6b428e91a884442cb08
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_Transition_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0cea60d2e806a8489df5731a33ed848
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GGraph_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1357681dc727f7842a12df4df9c00e79
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GButton_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10f9b23d030c8b047b3927aeebc292a2
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GObject_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e9d053fd4daa7c14882794f3a4790495
+    m_importFrom: Assets/Gen/Scripts/Puerts/Puerts_JsManager_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9dc8b91eb83c7024da8c513e28461bf2
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_PopupMenu_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82c0dc2e1a0593c478b5c42b1aeaef83
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_GameObject_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9cba884e4f86400478fb1f4c93cb1863
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_EventDispatcher_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 071e959e87901e64cbcdcb943674dd2c
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_ScrollPane_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8c7ffaeed2aa724d823cbbdd5253484
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_UI_Button_ButtonClickedEvent_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d89c0ebe9193a5347bbb10de43d3e133
+    m_importFrom: Assets/Gen/Scripts/System/System_Collections_Generic_List_1_System_Int32__Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 439c7eceb29804e4a9503ce8f4805ae9
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_GLoader_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ebdb38fe0fca2164190b4c5635831225
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_Behaviour_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0f5e09f88cb34f4781598213b656f14
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_MonoBehaviour_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 589fbdbfda315ee44b1a0aa5c6e3012d
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_TextAsset_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dd08daef2c35d3644ba7e2576b54c989
+    m_importFrom: Assets/Gen/Scripts/FairyGUI/FairyGUI_Container_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b13a3ffa4908c14ea89ab5c0603e893
+    m_importFrom: Assets/Gen/Scripts/UnityEngine/UnityEngine_ParticleSystem_Wrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d69c5ab3c0df554d925383348e74499
+    m_importFrom: Assets/Gen/Typing/csharp/index.d.ts
+    m_exportTo: 
+    m_variantName: 
   m_version: 2
