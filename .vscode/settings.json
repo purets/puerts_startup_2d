@@ -1,3 +1,28 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "files.exclude": {
+        "**/.gitmodules": true,
+        "**/.idea": true,
+        "**/.npmrc": true,
+        "**/.vscode": true,
+        "**/*.csproj": true,
+        "**/*.csproj.*": true,
+        "**/*.meta": true,
+        "**/*.rar": true,
+        "**/*.sln": true,
+        "**/*.tgz": true,
+        "**/*.zip": true,
+        "**/Addressable*": true,
+        "**/artisan": true,
+        "**/Library": true,
+        "**/LICENSE": true,
+        "**/Logs": true,
+        "**/node_modules": true,
+        "**/obj": true,
+        "**/package-lock.json": true,
+        "**/ProjectSettings": true,
+        "**/ServerData": true,
+        "**/Temp": true,
+        "**/UserSettings": true
+    }
 }

@@ -11,8 +11,12 @@
         "moduleResolution": "node",
         "experimentalDecorators": true,
         "baseUrl": "./src/",
+        "paths": {
+            "csharp": ["../Assets/Gen/Typing/csharp"],   // 此处映射是相对于"baseUrl"
+            "puerts": ["../Packages/app.puerts/Puerts/Typing/puerts"]// 此处映射是相对于"baseUrl"
+        },
         "typeRoots": [
-            "./Packages/app.puerts/Typing",
+            "./Packages/app.puerts/Puerts/Typing",
             "./Assets/Gen/Typing",
             "./node_modules/@types"
         ]
