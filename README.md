@@ -1,6 +1,6 @@
 # Puerts Unity 2D 项目原型
 
-- [说明文档](https://purets.github.io/puerts_startup_2d/)
+- [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/)
         
 
 - 本项目包含子模块, 直接下载 Zip 文件会缺失 Packages/* 的功能模块, git 下载方式
