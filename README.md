@@ -8,7 +8,11 @@
 
         git submodule update --init --recursive
     
-- FairyGUI 项目: 
+- Typescript 项目
+
+  Typescript 源文件在 /src 里面, 使用`npm install`安装依赖, 首次执行需要在 Unity 执行菜单项`puerts/Generate Code`生成接口文件
+
+### FairyGUI 项目: 
 
   用 FairyGUI 程序打开项目文件`FairyGUI-Editor/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
 
