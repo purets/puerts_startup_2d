@@ -36,3 +36,9 @@ puerts 热更新框架
 [Excel工具](https://zhuanlan.zhihu.com/p/216183764)
 
 QQ群：346340389
+
+
+
+## License
+
+[Apache License 2.0](LICENSE)
