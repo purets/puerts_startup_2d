@@ -17,7 +17,7 @@
   用 FairyGUI 程序打开项目文件`FairyGUI-Editor/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
 
     
-# 基于 NICE-TS 框架扩展
+## 基于 NICE-TS 框架扩展
 
 - Puerts 热更新框架 [NICE-TS](https://github.com/Justin-sky/Nice-TS)
 
