@@ -28,7 +28,7 @@
   * **[Game]** `app.game/` 基础模块
   * **[Puerts]** `app.puerts/` [Puerts](https://github.com/Tencent/puerts) 插件
     * 当前版本: **[Tag:v1.0.5,Plugin_Version:7](https://github.com/Tencent/puerts/releases/tag/v1.0.5)**
-  * **[SQLite4Unity]** `app.sqlite/` SQLite 插件
+  * **[SQLite4Unity]** `app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
   * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
     * 包含 [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) 插件免费版
   * **[FairyGUI]** `app.ui/` FairyGUI 功能模块
