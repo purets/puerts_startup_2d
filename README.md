@@ -25,7 +25,7 @@
   | **Packages/app.sqlite/** | [2d_startup-app.sqlite](https://github.com/purets/2d_startup-app.sqlite/archive/main.zip) |
 
   
-- **Typescript 项目**
+- **初始化安装与 Typescript 项目**
 
   Typescript 源文件在 `Packages/<游戏模块>/src/` 里面, 在 **项目路径** 使用`npm install`安装依赖, 首次运行需要在 Unity 执行菜单项`puerts/Generate Code`生成接口文件, 接口文件位于`Assets/Gen/`目录下
 
