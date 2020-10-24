@@ -3,21 +3,21 @@
 - [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
         
 
-- 本项目包含子模块, 直接下载 Zip 文件会缺失 Packages/* 的功能模块, git 下载方式
+- 本项目包含子模块, 直接下载 Zip 文件会缺失 `Packages/*` 的功能模块, git 下载方式
 
         git clone --recursive https://github.com/purets/puerts_startup_2d.git
     
-- 如果你不确定子模块是否都已经下载完全了，也可以执行一遍这个命令确认一下。(需要在项目路径下执行)
+- 如果你不确定子模块是否都已经下载完全了，也可以执行一遍这个命令确认一下。(需要在 **项目路径** 下执行)
 
         git submodule update --init --recursive
     
 - **Typescript 项目**
 
-  Typescript 源文件在 `src/` 里面, 使用`npm install`安装依赖, 首次运行需要在 Unity 执行菜单项`puerts/Generate Code`生成接口文件, 接口文件位于`Assets/Gen/`目录下
+  Typescript 源文件在 `Packages/<游戏模块>/src/` 里面, 在 **项目路径** 使用`npm install`安装依赖, 首次运行需要在 Unity 执行菜单项`puerts/Generate Code`生成接口文件, 接口文件位于`Assets/Gen/`目录下
 
 - **FairyGUI 项目** 
 
-  用 FairyGUI 程序打开项目目录`FairyGUI-Editor/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
+  用 FairyGUI 程序打开项目目录`Packages/<游戏模块>/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
   
 - **功能模块**
 
@@ -42,6 +42,7 @@
 ## 运行环境
 
 - 请在 Unity 2019.4 以上环境运行
+- 测试环境为 Windows 10 + WSL2 Linux 子系统
 
   
 ### 基于 NICE-TS 框架扩展
