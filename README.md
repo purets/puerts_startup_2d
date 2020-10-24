@@ -72,7 +72,7 @@
   * 网络模块: protobufjs
   * Excel 导出 TS 工具 [NiceET](https://github.com/Justin-sky/Nice-ET/tree/master/Tools/ExcelExporter)
 
-- #### NICE-TS 文档
+- #### NICE-TS 文档(仅供参考,本项目有修改)
 
   - [新手指南](https://zhuanlan.zhihu.com/p/206578729)
 
