@@ -33,7 +33,7 @@
     * 包含 [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) 插件免费版
   * **[FairyGUI]** `app.ui/` [FairyGUI](https://www.fairygui.com/) 功能模块
   * **[Web Api]** `app.web-api/` Web 功能模块
-    * 包含 **UniWebServer** 插件(提供 Http RESTful 服务) 
+    * 包含 **[UniWebServer](https://github.com/simonwittber/uniwebserver)** 插件(提供 Http RESTful 服务) 
     * **Websocket** 服务端/客户端 
     * **TeamDev Redis** 客户端
   * **[unity-ui-extension]** `unity-ui-extension/` UGUI 扩展插件
