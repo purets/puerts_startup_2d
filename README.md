@@ -10,11 +10,25 @@
     
 - Typescript 项目
 
-  Typescript 源文件在 /src 里面, 使用`npm install`安装依赖, 首次执行需要在 Unity 执行菜单项`puerts/Generate Code`生成接口文件
+  Typescript 源文件在 src/ 里面, 使用`npm install`安装依赖, 首次运行需要在 Unity 执行菜单项`puerts/Generate Code`生成接口文件, 接口文件位于`Assets/Gen/`目录下
 
 - FairyGUI 项目 
 
-  用 FairyGUI 程序打开项目文件`FairyGUI-Editor/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
+  用 FairyGUI 程序打开项目目录`FairyGUI-Editor/FGUIProject` 已经做了相对路径设置, 编辑完成直接点全部发布即可更新到 Unity 和 Typescript 项目里
+  
+- 功能模块
+
+  功能模块位于 Packages/ 下, 可以选择性删除, 删除模块时需要注意模块间的依赖关系, 可能需要重新执行菜单项`puerts/Clear Generated Code` 和 `puerts/Generate Code` 重新生成接口文件
+  
+  当前默认包含模块:
+  
+  * [Game] app.game/ 基础模块
+  * [Puerts] app.puerts/ Puerts插件
+  * [SQLite4Unity] app.sqlite/ SQLite插件
+  * [Tetris Template] app.tetris/ 俄罗斯方块游戏示例
+  * [FairyGUI] app.ui/ FairyGUI 功能模块
+  * [Web Api] app.web-api/ Web 功能模块
+  * [unity-ui-extension] unity-ui-extension/ UGUI扩展插件
 
     
 ## 基于 NICE-TS 框架扩展
