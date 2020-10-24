@@ -6,12 +6,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "app.easy-touch": {
-      "version": "file:app.easy-touch",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "app.game": {
       "version": "file:app.game",
       "depth": 0,

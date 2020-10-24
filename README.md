@@ -20,15 +20,15 @@
 
   功能模块位于 Packages/ 下, 可以选择性删除, 删除模块时需要注意模块间的依赖关系, 可能需要重新执行菜单项`puerts/Clear Generated Code` 和 `puerts/Generate Code` 重新生成接口文件
   
-  当前默认包含模块:
+  **当前默认包含模块:**
   
-  * [Game] app.game/ 基础模块
-  * [Puerts] app.puerts/ Puerts插件
-  * [SQLite4Unity] app.sqlite/ SQLite插件
-  * [Tetris Template] app.tetris/ 俄罗斯方块游戏示例
-  * [FairyGUI] app.ui/ FairyGUI 功能模块
-  * [Web Api] app.web-api/ Web 功能模块
-  * [unity-ui-extension] unity-ui-extension/ UGUI扩展插件
+  * **[Game]** `app.game/` 基础模块
+  * **[Puerts]** `app.puerts/` Puerts插件
+  * **[SQLite4Unity]** `app.sqlite/` SQLite插件
+  * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
+  * **[FairyGUI]** `app.ui/` FairyGUI 功能模块
+  * **[Web Api]** `app.web-api/` Web 功能模块
+  * **[unity-ui-extension]** `unity-ui-extension/` UGUI扩展插件
 
     
 ## 基于 NICE-TS 框架扩展
