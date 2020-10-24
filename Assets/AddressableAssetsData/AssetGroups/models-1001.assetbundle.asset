@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: models-1001.assetbundle
+  m_EditorClassIdentifier: 
+  m_GroupName: models-1001.assetbundle
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 227fe53acea00ff4a8efe00fe3898f0c
+  m_SerializeEntries:
+  - m_GUID: daaa364c0829497409783356b2e72072
+    m_Address: Models/1001/Character.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dd1f300d6062fee48bf00a13907517b6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0afc417348804d54dbfd769d804130e8, type: 2}
+    - {fileID: 11400000, guid: 14df1cadc1326d142b24b4198dd9d353, type: 2}

@@ -1,0 +1,6 @@
+{
+    "name": "App.EasyTouch.Controlls.Examples",
+    "references": [
+        "App.EasyTouch"
+    ]
+}

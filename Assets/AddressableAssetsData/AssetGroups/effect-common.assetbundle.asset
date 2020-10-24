@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: effect-common.assetbundle
+  m_EditorClassIdentifier: 
+  m_GroupName: effect-common.assetbundle
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7afab06f967f4914d9299e5e0a73e130
+  m_SerializeEntries:
+  - m_GUID: 4efd4c98620b1774094af2ab763c5679
+    m_Address: Effect/Common/Texture/models_fx_a.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 815d01df4c02241468f0c8c209bc227a
+    m_Address: Effect/Common/Texture/models_fx.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 848bffc9b8fe9ce48af32a414bad2726
+    m_Address: Effect/Common/Materials/models_fx_R.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: aadcfe29a35dfde4abad8f206d91e116
+    m_Address: Effect/Common/Texture/Matcap_Encode2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bf98ab79d06136e469d05d25bf60ad2e
+    m_Address: Effect/Common/Materials/models_fx_RGB.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dd1f300d6062fee48bf00a13907517b6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 79fdfbe02d2d5bf4daacf1c1f58aa81c, type: 2}
+    - {fileID: 11400000, guid: 6e77ac491cd71cc49b548f7a04dfeec3, type: 2}

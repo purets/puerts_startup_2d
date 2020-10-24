@@ -1,0 +1,10 @@
+{
+    "name": "App.Game",
+    "references": [
+        "App.Puerts",
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "App.FairyGUI",
+        "App.EasyTouch"
+    ]
+}

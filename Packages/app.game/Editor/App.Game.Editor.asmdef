@@ -1,0 +1,15 @@
+{
+    "name": "App.Game.Editor",
+    "references": [
+        "App.Game",
+        "App.Puerts",
+        "App.Puerts.Editor",
+        "App.FairyGUI",
+        "Unity.Addressables",
+        "App.FairyGUI.Editor",
+        "Unity.Addressables.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}

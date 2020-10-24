@@ -1,0 +1,9 @@
+{
+    "name": "App.EasyTouch.Editor",
+    "references": [
+        "App.EasyTouch"
+    ] ,
+    "includePlatforms": [
+        "Editor"
+    ]
+}

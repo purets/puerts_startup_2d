@@ -1,0 +1,9 @@
+{
+    "name": "App.Puerts.Editor",
+    "references": [
+        "App.Puerts"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}

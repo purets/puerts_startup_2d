@@ -1,0 +1,9 @@
+{
+    "name": "App.FairyGUI.Editor",
+    "references": [
+        "App.FairyGUI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
