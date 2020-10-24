@@ -17,9 +17,9 @@ $_SERVER["SERVER_NAME"] = "localhost";
 |
 */
 
-require __DIR__.'/ServerData/home/vendor/autoload.php';
+require __DIR__.'/Packages/.laravel-manager/vendor/autoload.php';
 
-$app = require_once __DIR__.'/ServerData/home/bootstrap/app.php';
+$app = require_once __DIR__.'/Packages/.laravel-manager/bootstrap/app.php';
 
 /*
 |--------------------------------------------------------------------------
