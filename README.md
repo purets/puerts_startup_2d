@@ -1,4 +1,4 @@
-# Puerts Typescript 热更新 Unity 2D 项目原型
+# Puerts Typescript 热更新 Unity 2D 游戏开发模板
 
 - [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
         
@@ -31,6 +31,7 @@
   * **[SQLite4Unity]** `app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
   * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
     * 包含 [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) 插件免费版
+  * **[Tetrimo]** `app.tetrimo` 俄罗斯方块[(Tetrimo)](https://assetstore.unity.com/packages/templates/packs/tomino-159004) 示例
   * **[FairyGUI]** `app.ui/` [FairyGUI](https://www.fairygui.com/) 功能模块
   * **[Web Api]** `app.web-api/` Web 功能模块
     * 包含 **[UniWebServer](https://github.com/simonwittber/uniwebserver)** 插件(提供 Http RESTful 服务) 
