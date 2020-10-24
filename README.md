@@ -13,7 +13,7 @@
     
 - **手动下载子模块** 如果使用 zip 方式下载本项目, 请同时下载下面的子模块并按原来的名字解压到 `Packages/` 文件夹里面
 
-  | Packages/* | zip |
+  | 解压路径 | zip 文件 |
   | ---------- | --- |
   | **Packages/app.game/** | [2d_startup-app.game](https://github.com/purets/2d_startup-app.game/archive/main.zip) |
   | **Packages/app.puerts/** | [2d_startup-app.puerts](https://github.com/purets/2d_startup-app.puerts/archive/main.zip) |
