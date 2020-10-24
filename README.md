@@ -61,7 +61,7 @@
   
 ### 基于 NICE-TS 框架扩展
 
-- Puerts Typescript 热更新框架 [NICE-TS](https://github.com/Justin-sky/Nice-TS)
+- Puerts Typescript 热更新框架: [NICE-TS](https://github.com/Justin-sky/Nice-TS)
 
   * Addressables 资源管理
     * TODO: 用 Typescript 加载 Addressables 资源
