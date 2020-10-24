@@ -31,7 +31,7 @@
   * **[SQLite4Unity]** `app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
   * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
     * 包含 [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) 插件免费版
-  * **[FairyGUI]** `app.ui/` FairyGUI 功能模块
+  * **[FairyGUI]** `app.ui/` [FairyGUI](https://www.fairygui.com/) 功能模块
   * **[Web Api]** `app.web-api/` Web 功能模块
     * 包含 **UniWebServer** 插件(提供 Http RESTful 服务) 
     * **Websocket** 服务端/客户端 
