@@ -19,3 +19,6 @@
 [submodule "Packages/unity-ui-extensions"]
 	path = Packages/unity-ui-extensions
 	url = https://github.com/purets/unity-ui-extensions.git
+[submodule "Packages/app.web-api"]
+	path = Packages/app.web-api
+	url = https://github.com/purets/2d_startup-app.web_api.git

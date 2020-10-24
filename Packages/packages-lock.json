@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "api.web-api": {
+      "version": "file:app.web-api",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "app.easy-touch": {
       "version": "file:app.easy-touch",
       "depth": 0,
