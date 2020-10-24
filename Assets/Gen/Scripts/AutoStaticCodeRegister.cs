@@ -1,10 +1,4 @@
-﻿using Common.Logger;
-using Common.Singleton;
-using Framework.Addressables;
-using Framework.Network.TCP;
-using Puerts;
-
-namespace PuertsStaticWrap
+﻿namespace PuertsStaticWrap
 {
     public static class AutoStaticCodeRegister
     {
@@ -75,17 +69,17 @@ namespace PuertsStaticWrap
             jsEnv.AddLazyStaticWrapLoader(typeof(UnityEngine.Events.UnityEvent<bool>), UnityEngine_Events_UnityEvent_1_System_Boolean__Wrap.GetRegisterInfo);
             jsEnv.AddLazyStaticWrapLoader(typeof(UnityEngine.Application), UnityEngine_Application_Wrap.GetRegisterInfo);
             jsEnv.AddLazyStaticWrapLoader(typeof(UnityEngine.TextAsset), UnityEngine_TextAsset_Wrap.GetRegisterInfo);
-            jsEnv.AddLazyStaticWrapLoader(typeof(MonoSingleton<TService>), MonoSingleton_1_NiceTS_TService__Wrap.GetRegisterInfo);
-            jsEnv.AddLazyStaticWrapLoader(typeof(Logger), Logger_Wrap.GetRegisterInfo);
-            jsEnv.AddLazyStaticWrapLoader(typeof(ResourceManager), NiceTS_ResourceManager_Wrap.GetRegisterInfo);
+            jsEnv.AddLazyStaticWrapLoader(typeof(Common.Singleton.MonoSingleton<Framework.Network.TCP.TService>), Common_Singleton_MonoSingleton_1_Framework_Network_TCP_TService__Wrap.GetRegisterInfo);
+            jsEnv.AddLazyStaticWrapLoader(typeof(UnityEngine.Logger), UnityEngine_Logger_Wrap.GetRegisterInfo);
+            jsEnv.AddLazyStaticWrapLoader(typeof(Framework.Addressables.ResourceManager), Framework_Addressables_ResourceManager_Wrap.GetRegisterInfo);
             jsEnv.AddLazyStaticWrapLoader(typeof(UnityEngine.SceneManagement.SceneManager), UnityEngine_SceneManagement_SceneManager_Wrap.GetRegisterInfo);
             jsEnv.AddLazyStaticWrapLoader(typeof(UnityEngine.SceneManagement.Scene), UnityEngine_SceneManagement_Scene_Wrap.GetRegisterInfo);
             jsEnv.AddLazyStaticWrapLoader(typeof(UnityEngine.AsyncOperation), UnityEngine_AsyncOperation_Wrap.GetRegisterInfo);
-            jsEnv.AddLazyStaticWrapLoader(typeof(TService), NiceTS_TService_Wrap.GetRegisterInfo);
-            jsEnv.AddLazyStaticWrapLoader(typeof(TChannel), NiceTS_TChannel_Wrap.GetRegisterInfo);
-            jsEnv.AddLazyStaticWrapLoader(typeof(JsManager), JsManager_Wrap.GetRegisterInfo);
-            jsEnv.AddLazyStaticWrapLoader(typeof(GameLaunch.GameLaunch), GameLaunch_Wrap.GetRegisterInfo);
-
+            jsEnv.AddLazyStaticWrapLoader(typeof(Framework.Network.TCP.TService), Framework_Network_TCP_TService_Wrap.GetRegisterInfo);
+            jsEnv.AddLazyStaticWrapLoader(typeof(Framework.Network.TCP.TChannel), Framework_Network_TCP_TChannel_Wrap.GetRegisterInfo);
+            jsEnv.AddLazyStaticWrapLoader(typeof(Puerts.JsManager), Puerts_JsManager_Wrap.GetRegisterInfo);
+            jsEnv.AddLazyStaticWrapLoader(typeof(GameLaunch.GameLaunch), GameLaunch_GameLaunch_Wrap.GetRegisterInfo);
+            
         }
     }
 }

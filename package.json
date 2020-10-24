@@ -7,7 +7,7 @@
 	},
 	"license": "MIT",
 	"publishConfig": { "registry": "https://npm.pkg.github.com/joycraft" },
-	"repository": "https://github.com/WindrunnerMax/Asse",
+	"repository": "https://github.com/purets/puerts_startup_2d.git",
 
 	"scripts": {
 		"bundle:dev": "webpack --config webpack.config.debug.js --watch",

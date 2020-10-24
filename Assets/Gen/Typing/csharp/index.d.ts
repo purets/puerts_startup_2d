@@ -1616,10 +1616,10 @@ declare module 'csharp' {
             
         }
         type Func$1<TResult> = () => TResult;
+        type Action$2<T1,T2> = (arg1: T1, arg2: T2) => void;
         class Int64 extends System.ValueType {
             
         }
-        type Action$2<T1,T2> = (arg1: T1, arg2: T2) => void;
         
     }
     namespace UnityEngine {
@@ -2218,6 +2218,32 @@ declare module 'csharp' {
             public constructor(text: string);
             
         }
+        class Logger extends System.Object {
+            public logHandler: UnityEngine.ILogHandler;
+            public logEnabled: boolean;
+            public filterLogType: UnityEngine.LogType;
+            public constructor(logHandler: UnityEngine.ILogHandler);
+            public IsLogTypeAllowed(logType: UnityEngine.LogType):boolean;
+            public Log(logType: UnityEngine.LogType, message: any):void;
+            public Log(logType: UnityEngine.LogType, message: any, context: UnityEngine.Object):void;
+            public Log(logType: UnityEngine.LogType, tag: string, message: any):void;
+            public Log(logType: UnityEngine.LogType, tag: string, message: any, context: UnityEngine.Object):void;
+            public Log(message: any):void;
+            public Log(tag: string, message: any):void;
+            public Log(tag: string, message: any, context: UnityEngine.Object):void;
+            public LogWarning(tag: string, message: any):void;
+            public LogWarning(tag: string, message: any, context: UnityEngine.Object):void;
+            public LogError(tag: string, message: any):void;
+            public LogError(tag: string, message: any, context: UnityEngine.Object):void;
+            public LogFormat(logType: UnityEngine.LogType, format: string, ...args: any[]):void;
+            public LogException(exception: System.Exception):void;
+            public LogFormat(logType: UnityEngine.LogType, context: UnityEngine.Object, format: string, ...args: any[]):void;
+            public LogException(exception: System.Exception, context: UnityEngine.Object):void;
+            
+        }
+        interface ILogHandler {
+            
+        }
         class Sprite extends UnityEngine.Object {
             
         }
@@ -2804,17 +2830,52 @@ declare module 'csharp' {
         var LogCallback: {new (func: (condition: string, stackTrace: string, type: UnityEngine.LogType) => void): LogCallback;}
         
     }
-    namespace NiceTS {
-        class TService extends MonoSingleton$1<NiceTS.TService> {
-            public MemoryStreamManager: Microsoft.IO.RecyclableMemoryStreamManager;
+    namespace Framework.Network.TCP {
+        class TService extends Common.Singleton.MonoSingleton$1<Framework.Network.TCP.TService> {
+            public MemoryStreamManager: Common.RecyclableMemoryStream.RecyclableMemoryStreamManager;
             public needStartSendChannel: System.Collections.Generic.List$1<bigint>;
             public constructor();
-            public GetChannel():NiceTS.TChannel;
+            public GetChannel():Framework.Network.TCP.TChannel;
             public MarkNeedStartSend(id: bigint):void;
             public Remove(id: bigint):void;
             public Update():void;
             
         }
+        class TChannel extends System.Object {
+            public errorCallback: Framework.Network.TCP.ErrorCallback;
+            public readCallback: Framework.Network.TCP.ReadCallback;
+            public Service: Framework.Network.TCP.TService;
+            public Id: bigint;
+            public IsSending: boolean;
+            public Error: number;
+            public RemoteAddress: string;
+            public constructor(service: Framework.Network.TCP.TService);
+            public Connect(address: string):void;
+            public Send(ab: ArrayBuffer):void;
+            public StartSend():void;
+            public SendAsync(buffer: System.Array$1<number>, offset: number, count: number):void;
+            public StartRecv():void;
+            public RecvAsync(buffer: System.Array$1<number>, offset: number, count: number):void;
+            public Dispose():void;
+            
+        }
+        type ErrorCallback = (channel: Framework.Network.TCP.TChannel, code: number) => void;
+        var ErrorCallback: {new (func: (channel: Framework.Network.TCP.TChannel, code: number) => void): ErrorCallback;}
+        type ReadCallback = (arrayBuffer: ArrayBuffer) => void;
+        var ReadCallback: {new (func: (arrayBuffer: ArrayBuffer) => void): ReadCallback;}
+        
+    }
+    namespace Common.Singleton {
+        class MonoSingleton$1<T> extends UnityEngine.MonoBehaviour {
+            public static Instance: T;
+            public Startup():void;
+            public DestroySelf():void;
+            public Dispose():void;
+            
+        }
+        
+    }
+    namespace Framework.Addressables {
         class ResourceManager extends System.Object {
             public static OnFBLoadedHandle: System.Action$2<string, System.Array$1<number>>;
             public constructor();
@@ -2830,82 +2891,8 @@ declare module 'csharp' {
             public static ReleaseAddressGO(go: UnityEngine.Object):void;
             
         }
-        class TChannel extends System.Object {
-            public errorCallback: NiceTS.ErrorCallback;
-            public readCallback: NiceTS.ReadCallback;
-            public Service: NiceTS.TService;
-            public Id: bigint;
-            public IsSending: boolean;
-            public Error: number;
-            public RemoteAddress: string;
-            public constructor(service: NiceTS.TService);
-            public Connect(address: string):void;
-            public Send(ab: ArrayBuffer):void;
-            public StartSend():void;
-            public SendAsync(buffer: System.Array$1<number>, offset: number, count: number):void;
-            public StartRecv():void;
-            public RecvAsync(buffer: System.Array$1<number>, offset: number, count: number):void;
-            public Dispose():void;
-            
-        }
-        type ErrorCallback = (channel: NiceTS.TChannel, code: number) => void;
-        var ErrorCallback: {new (func: (channel: NiceTS.TChannel, code: number) => void): ErrorCallback;}
-        type ReadCallback = (arrayBuffer: ArrayBuffer) => void;
-        var ReadCallback: {new (func: (arrayBuffer: ArrayBuffer) => void): ReadCallback;}
         
     }
-    
-        class MonoSingleton$1<T> extends UnityEngine.MonoBehaviour {
-            public static Instance: T;
-            public Startup():void;
-            public DestroySelf():void;
-            public Dispose():void;
-            
-        }
-        class Logger extends System.Object {
-            public static clientVerstion: string;
-            public static loginUid: string;
-            public static localIP: string;
-            public static platName: string;
-            public static sceneName: string;
-            public static DEBUG_BUILD_VER: string;
-            public static platChannel: string;
-            public static useTime: bigint;
-            public static useMemory: string;
-            public constructor();
-            public static Log(s: string, ...p: any[]):void;
-            public static Log(o: any):void;
-            public static LogToMainThread(s: string, ...p: any[]):void;
-            public static Assert(condition: boolean, s: string, ...p: any[]):void;
-            public static LogError(s: string, ...p: any[]):void;
-            public static LogErrorToMainThread(s: string, ...p: any[]):void;
-            public static LogStackTrace(str: string):void;
-            public static CheckReportError():void;
-            public static Watch():void;
-            
-        }
-        class JsManager extends MonoSingleton$1<JsManager> {
-            public jscache: System.Collections.Generic.Dictionary$2<string, string>;
-            public JsOnApplicationQuit: System.Action;
-            public JsOnDispose: System.Action;
-            public constructor();
-            public GetJsEnv():Puerts.JsEnv;
-            public StartGame():void;
-            public Restart():void;
-            public Dispose():void;
-            
-        }
-        class GameLaunch extends MonoSingleton$1<GameLaunch> {
-            public launchPage: LaunchPage;
-            public constructor();
-            public JsLuanchFinish():void;
-            
-        }
-        class LaunchPage extends FairyGUI.GComponent {
-            
-        }
-        
-    
     namespace System.Threading.Tasks {
         class Task extends System.Object {
             
@@ -2919,13 +2906,39 @@ declare module 'csharp' {
         class ArrayBuffer extends System.Object {
             
         }
+        class JsManager extends Common.Singleton.MonoSingleton$1<Puerts.JsManager> {
+            public jscache: System.Collections.Generic.Dictionary$2<string, string>;
+            public JsOnApplicationQuit: System.Action;
+            public JsOnDispose: System.Action;
+            public constructor();
+            public GetJsEnv():Puerts.JsEnv;
+            public StartGame():void;
+            public Restart():void;
+            public Dispose():void;
+            
+        }
         class JsEnv extends System.Object {
             
         }
         
     }
-    namespace Microsoft.IO {
+    namespace Common.RecyclableMemoryStream {
         class RecyclableMemoryStreamManager extends System.Object {
+            
+        }
+        
+    }
+    namespace GameLaunch {
+        class GameLaunch extends Common.Singleton.MonoSingleton$1<GameLaunch.GameLaunch> {
+            public launchPage: Framework.UI.LaunchPage;
+            public constructor();
+            public JsLuanchFinish():void;
+            
+        }
+        
+    }
+    namespace Framework.UI {
+        class LaunchPage extends FairyGUI.GComponent {
             
         }
         

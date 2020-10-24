@@ -17,4 +17,676 @@ MonoBehaviour:
     m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 00000000000000005000000000000000
+    m_importFrom: Library/BuildPlayer.prefs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b69919937ff6b43dc82720add064ec3f
+    m_importFrom: Packages/com.unity.entities/Unity.Entities.Hybrid.Tests/Conversion/Prefab_Reference_Prefab.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81d0f2e301e584c2094ed9a85ef8a3dd
+    m_importFrom: Packages/com.unity.entities/Unity.Entities.Hybrid.Tests/Conversion/Prefab_Hierarchy.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b524356484bab4157836d71fc67632da
+    m_importFrom: Packages/com.unity.entities/Unity.Entities.Hybrid.Tests/Conversion/Prefab_Reference_Self.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a2963d3875aa64f57a25391305f4bc29
+    m_importFrom: Packages/com.unity.entities/Unity.Entities.Hybrid.Tests/Conversion/Prefab.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 628002c8b187748888c751e2cf657330
+    m_importFrom: Packages/com.unity.entities/Unity.Entities.Hybrid.Tests/Conversion/Prefab_With_DynamicBufferDataProxy.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7891529d6f5a4a74a838cd9f91bdc11
+    m_importFrom: Packages/com.unity.entities/Unity.Entities.Hybrid.Tests/Conversion/Prefab_With_SharedComponentDataProxy.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46431bbad56b14fb4a1ef7da8e8f9ff6
+    m_importFrom: Packages/com.unity.entities/Unity.Entities.Hybrid.Tests/Conversion/Prefab_With_ComponentDataProxy.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0f89c3fccbfa4bddbac45ae1effe466
+    m_importFrom: Packages/unity-ui-extensions/Examples/MenuExample/Prefabs/MenuSystem/MenuManager.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efd0525e9867c684a95904e1dc7921f9
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTween.Modules.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5b5e92203c2ef8e45a2b096ebe66dda2
+    m_importFrom: Packages/app.tetris/Scripts/Utils/PlayerStats.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b256bb40f852c0b4bb63a585a2289162
+    m_importFrom: Packages/app.tetris/Audio/SOUND ATELIER - Operation Sounds FREE
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 31862e40ec5d0664ab09b33b7d8f7c8a
+    m_importFrom: Packages/app.tetris/Scenes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ef808050031962c4b80253055522e50d
+    m_importFrom: Packages/app.tetris/Scripts/Managers/ScoreManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 80f29ad05bbf7a88b95a657aed19d945
+    m_importFrom: Packages/app.tetris
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c1a11e41d3e253949b1e89674c3b1eb1
+    m_importFrom: Packages/app.tetris/Scripts/Gameplay/ShapeMovementController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 41ee76812e0a51d43a0fd491f26de63d
+    m_importFrom: Packages/app.tetris/Scripts
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 55e79f913d128f644b352cbc708129a1
+    m_importFrom: Packages/app.tetris/Scripts/Managers/CameraManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc31bcf14a56cde4c832c8a5abcc6291
+    m_importFrom: Packages/app.tetris/Scripts/UI/Buttons
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05764d32e9c18484d84d2d7a1406bd2c
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 424612d27b0bbdf469ed63b4a71fa797
+    m_importFrom: Packages/app.tetris/Scripts/Managers/SpawnManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 214993d26e818a94d9597136e8a4690c
+    m_importFrom: Packages/app.tetris/Editor/App.Tetris.Editor.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8468633371be17a45b431189ba077680
+    m_importFrom: Packages/app.tetris/Scripts/Managers/AudioManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e741cc6391183ad408140cc988e09a8b
+    m_importFrom: Packages/app.tetris/Audio
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 315c93837984f8b4eaf30117a3fbca17
+    m_importFrom: Packages/app.tetris/Scripts/Utils/TimeUtil.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3415e1a3800f76846ad8f2555be1256f
+    m_importFrom: Packages/app.tetris/Scripts/States/_StatesBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4452204524be6d46bcde536be2714e6
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df42e474cddffb7459e4990bd94c2013
+    m_importFrom: Packages/app.tetris/Plugins
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 59184e94970610d4fb17e49c5496a92b
+    m_importFrom: Packages/app.tetris/Editor/WelcomeInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 108732c4c9e0d4a409e1a6ebcb8fbba2
+    m_importFrom: Packages/app.tetris/Scripts/Managers/UIManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e59276d447504588bc06e68fb190c0f1
+    m_importFrom: Packages/app.tetris/Scripts/App.Tetris.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd6a641509056c44497e178a85a84127
+    m_importFrom: Packages/app.tetris/Scripts/Utils/CameraShake.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dbe4f4c5a8bcbb64ea39fbb8cdc73d65
+    m_importFrom: Packages/app.tetris/Scripts/Managers/AdvertisementManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d132ced5845b0854395a1b40d288ecb4
+    m_importFrom: Packages/app.tetris/Scripts/UI/Buttons/GameBackButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 107588c627236724392628b2bedd70c5
+    m_importFrom: Packages/app.tetris/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c8e2e907a05e9384f90c1c8a3ecaccb5
+    m_importFrom: Packages/app.tetris/Font
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aace6b1768211f44f93fedce8f9b1ce5
+    m_importFrom: Packages/app.tetris/Scripts/UI/MainMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 09e5bb37defcfd74c930a5407dda5078
+    m_importFrom: Packages/app.tetris/Scripts/UI/SettingsMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad4cdf470e47ec64090c13427b4e0e95
+    m_importFrom: Packages/app.tetris/Scripts/UI/Buttons/RestartButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b993b571956aa346b2fa0f1ac3aeccb
+    m_importFrom: Packages/app.tetris/Scripts/Utils/Vector2Extension.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 797432878c0e0874893d5671cde6d2c6
+    m_importFrom: Packages/app.tetris/Scripts/States/GameOverState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 51b335c7275f9bf4da5f9acdafc5174f
+    m_importFrom: Packages/app.tetris/Scripts/States
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7061c708f901a5c45a33690382c6b315
+    m_importFrom: Packages/app.tetris/Scripts/Utils/PersistentSingleton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0448aba8a66ed0540acfde678d59f9a6
+    m_importFrom: Packages/app.tetris/Scripts/Managers/ColorManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 143604b8bad857d47a6f7cc7a533e2dc
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5dcfecc81bfd6eb4ebe90f1b27a4b3b3
+    m_importFrom: Packages/app.tetris/Scripts/Managers/GameManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aad0cdf8d66652341a71ca42c82f7e69
+    m_importFrom: Packages/app.tetris/Scripts/Gameplay
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d675719985e4b141af86434e24d6863
+    m_importFrom: Packages/app.tetris/Scripts/UI/GameOverPopUp.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2120133a0d65d9e469ae71d79a94573e
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2ff005a6217b364293436df52033a74
+    m_importFrom: Packages/app.tetris/Scripts/UI
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e567b15adcda3804eb9a872963580289
+    m_importFrom: Packages/app.tetris/Scripts/States/GamePlayState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 949671fa9c875ef4290ff7daa6293d8b
+    m_importFrom: Packages/app.tetris/Scripts/States/MenuState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bb975fab1dd8ae4d890ad12869a8b92
+    m_importFrom: Packages/app.tetris/Scripts/Utils/Constants.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6f1310ba5b272544a4534398d3c112a
+    m_importFrom: Packages/app.tetris/Scripts/Managers
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0274da6b9ca07144f9b1be747a766933
+    m_importFrom: Packages/app.tetris/Prefabs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11ff2cbb657d5a7468a70b52bffd446a
+    m_importFrom: Packages/app.tetris/Scripts/Managers/PlayerInputManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76c0dacb6bfddff4f84de97ef728b54e
+    m_importFrom: Packages/app.tetris/Scripts/UI/AdButtons.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 09820ecb0ede70040890b979a1502ff8
+    m_importFrom: Packages/app.tetris/Scripts/UI/PopUp.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d23d800c38b619147be2ee845c0d92e6
+    m_importFrom: Packages/app.tetris/Editor/Resources
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 582c7d7c7e00b7444ab1e9178de640df
+    m_importFrom: Packages/app.tetris/Scripts/Managers/GridManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a938c09c42304eb4196775c3003edb6e
+    m_importFrom: Packages/app.tetris/Scripts/Managers/Managers.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f3783e9ce54c1594f96a0f731765a337
+    m_importFrom: Packages/app.tetris/Scripts/Gameplay/TetrisShape.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93c635bc28a736d47b20a931a142cd41
+    m_importFrom: Packages/app.tetris/Scripts/Utils
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a6ac9bcb50191e4bb908a686dcfef6e
+    m_importFrom: Packages/app.tetris/Scripts/Managers/AnalyticsManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf0500cc9badf534893d0bc5a4d391f1
+    m_importFrom: Packages/app.tetris/Scripts/Utils/ScriptableObjectUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dfb227dc21600a14aa4bc6712e9a5e0f
+    m_importFrom: Packages/app.tetris/Scripts/UI/StatsUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5270c70d98878484594336fe80a85aab
+    m_importFrom: Packages/app.tetris/Resources
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88f5acada15bc724d8501b0b107ab2b0
+    m_importFrom: Packages/app.tetris/Sprites
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5f9336edaa7b7644da3b46cb7d4668d4
+    m_importFrom: Packages/app.tetris/Scripts/UI/Buttons/PlayerStatsButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2582269e61d96b740b2c7112269bd210
+    m_importFrom: Packages/app.tetris/Scripts/UI/InGameUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b27f58ae5d5c33a4bb2d1f4f34bd036d
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0034ebae0c2a9344e897db1160d71b6d
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/Imgs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e3b7b0f20f80734caad690695b60a1c
+    m_importFrom: Packages/app.tetris/Scripts/UI/Buttons/ContinueButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a8681a6f755eccb44a5a1397c37a6233
+    m_importFrom: Packages/app.tetris/Scripts/UI/Buttons/SettingsButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 45d5034162d6cf04dbe46da84fc7d074
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a811bde74b26b53498b4f6d872b09b6d
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/DOTween.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c02b0c1af2570d4cae71d83eecec5f3
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes/Shape (3).prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 792f86c16893c4e4ea54613089483a52
+    m_importFrom: Packages/app.tetris/Audio/SOUND ATELIER - Operation Sounds FREE/Balloon_003.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f2d0cff2bd7256d42b6958300bb934ed
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes/Shape.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ef714803c9fd0c14bbc1ddff6743785e
+    m_importFrom: Packages/app.tetris/Audio/SOUND ATELIER - Operation Sounds FREE/Cursor_002.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2e0b1631ac9e104da66e436240b0113
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes/Shape (5).prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ff19987311d5db94d985e3178e9d4664
+    m_importFrom: Packages/app.tetris/Prefabs/Block.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 092bdda36f5402b47a2f3f5282308bf2
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes/Shape (4).prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76346a64fb710bb438de90fe848eb044
+    m_importFrom: Packages/app.tetris/Editor/Resources/btn_rateus.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8cef9905e62b22b4c984b3cc34f75a9e
+    m_importFrom: Packages/app.tetris/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cdbf9445950484ddcb601c2de514a26d
+    m_importFrom: Packages/app.tetris/Editor/Resources/btn_facebook.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d8df3847e6de7444cbcc7489ec390f59
+    m_importFrom: Packages/app.tetris/Editor/Resources/btn_support.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d14745772c2930b4b9f8e459b066cab8
+    m_importFrom: Packages/app.tetris/Audio/Lineclear.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df98ec090b11487438b996d58e9342aa
+    m_importFrom: Packages/app.tetris/Audio/Drop.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5127458934b5b5f4196bc48eb5fab910
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes/Shape (1).prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bbf8a399dfd8c774199dfc04a62fec1c
+    m_importFrom: Packages/app.tetris/Sprites/SkardFlatAtlas.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52a9d9f9f8d4f9c4ca31cc182477167a
+    m_importFrom: Packages/app.tetris/Editor/Resources/btn_documentation.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e831a3aa7b828144c95d61f9e6be88ae
+    m_importFrom: Packages/app.tetris/ReadMe.pdf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8208afca547f82f48ae1730520e26e26
+    m_importFrom: Packages/app.tetris/Editor/Resources/btn_patreon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4c1db96bd231a1f4387983af3b54108f
+    m_importFrom: Packages/app.tetris/Editor/Resources/skard_banner.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18bd860c8d8d6374295c17a8c099d190
+    m_importFrom: Packages/app.tetris/Font/eurof55.ttf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2fa993c86a6ef845acf788a47bf6895
+    m_importFrom: Packages/app.tetris/Audio/Gameover.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05eb06bc128fcf54fa2e0621c666b145
+    m_importFrom: Packages/app.tetris/Editor/Resources/btn_twitter.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e63f065e3be81334281c50801b9d8b56
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes/Shape (6).prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60f4ee9faaf1c40e5bbd28443d4acf64
+    m_importFrom: Packages/app.tetris/Editor/Resources/btn_question.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f2e46dfff2b4c8a449f639f3007cd8b3
+    m_importFrom: Packages/app.tetris/Prefabs/Shapes/Shape (2).prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f007001a22b3d24dae350342c4d19c8
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/DOTween.dll.mdb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8da095e39e9b4df488dfd436f81116d6
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e2c6224d345d9249acfa6e8ef40bb2d
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7051dba417b3d53409f2918f1ea4938d
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78a59ca99f8987941adb61f9e14a06a7
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f46310a8b0a8f04a92993c37c713243
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll.mdb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fccfc62abf2eb0a4db614853430894fd
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/readme.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 34192c5e0d14aee43a0e86cc4823268a
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/DOTween.XML
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 519694efe2bb2914788b151fbd8c01f4
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63c02322328255542995bd02b47b0457
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUnityVersion.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 230fe34542e175245ba74b4659dae700
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dae9aa560b4242648a3affa2bfabc365
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7bcaf917d9cf5b84090421a5a2abe42e
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUtils.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b766d08851589514b97afb23c6f30a70
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTweenModuleAudio.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 188918ab119d93148aa0de59ccf5286b
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTweenModuleSprite.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a060394c03331a64392db53a10e7f2d1
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7224807800bc4a04c82a0771fdf66818
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Resources
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 849c4eb1fdf0f8d42b43608e13580a4a
+    m_importFrom: Packages/app.tetris/Plugins/Demigiant/DOTween/Resources/DOTweenSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 79b9ff4395664ca29295aaf04bf85630
+    m_importFrom: Packages/app.tetris/Scenes/Tetris
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 909c3cde01b64de0b52e6857638ebe25
+    m_importFrom: Packages/app.tetris/Scenes/Tetris/GamePlay.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e89d202d14c6cef4fabe8fdfd2a578dc
+    m_importFrom: Assets/StreamingAssets/7456765D.sqlite
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 217eeb15aaa174a4a9cb7d20614805a3
+    m_importFrom: Assets/Scenes/mobile
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af642519a7335824a8ee8bf3e0aa9f46
+    m_importFrom: Assets/Scenes/mobile/BaseScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52e8f0d079c50ec4898e8bbfcf82cc76
+    m_importFrom: Assets/Scenes/rpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c752b8f3e40b99244ba8a52ad6b549e9
+    m_importFrom: Assets/Scenes/rpg/BattleScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f65a8455186195b438146c74c5ecadcc
+    m_importFrom: Assets/Scenes/rpg/LoginScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c1b9cadc46f57cb4cb8b756a3c719d72
+    m_importFrom: Assets/Scenes/rpg/LaunchScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 50bd3a8d2c692fb459489d8d11c2859a
+    m_importFrom: Assets/Scenes/rpg/HomeScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 48bc9a7f56d5c9847bea207f2984ce1d
+    m_importFrom: Assets/Scenes/rpg/LoadingScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c89ccc3373914b244bbd303383a91f6d
+    m_importFrom: Assets/AssetsPackage/FairyGUI/login_fui.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d281af523de19b43a657ab20f850c18
+    m_importFrom: Assets/AssetsPackage/FairyGUI/launch_fui.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 490eb9a88c215a54188c9d3d77ea8178
+    m_importFrom: Assets/AssetsPackage/FairyGUI/common_fui.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 273d871e38d54cc4f9e3fcc81f65026c
+    m_importFrom: Assets/AssetsPackage/FairyGUI/home_fui.bytes
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 848bffc9b8fe9ce48af32a414bad2726
+    m_importFrom: Assets/AssetsPackage/Effect/Common/Materials/models_fx_R.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf98ab79d06136e469d05d25bf60ad2e
+    m_importFrom: Assets/AssetsPackage/Effect/Common/Materials/models_fx_RGB.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aadcfe29a35dfde4abad8f206d91e116
+    m_importFrom: Assets/AssetsPackage/Effect/Common/Texture/Matcap_Encode2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 815d01df4c02241468f0c8c209bc227a
+    m_importFrom: Assets/AssetsPackage/Effect/Common/Texture/models_fx.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4efd4c98620b1774094af2ab763c5679
+    m_importFrom: Assets/AssetsPackage/Effect/Common/Texture/models_fx_a.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5682c62e1063a0c449d268c9fd4a96ae
+    m_importFrom: Assets/AssetsPackage/Effect/Objects/Materials/l_lkw_star4x4.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e27784781ca48604b9d5f7e168c04b40
+    m_importFrom: Assets/AssetsPackage/Effect/Objects/Tex/l_lkw_star8x1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71375b5b2ad0e2e48a2f802568913ce7
+    m_importFrom: Assets/AssetsPackage/Effect/Objects/Tex/UI/ui_main_91.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d31b1693c0e8cc04e9925e7c27a39eb4
+    m_importFrom: Assets/AssetsPackage/Effect/Objects/Tex/UI/ui_main_92.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a0b2deee77e1f94c8ab688ac4ac0e52
+    m_importFrom: Assets/AssetsPackage/Effect/Objects/Tex/UI/ui_main_93.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e04322f60b4087e4aa1822c91a704d73
+    m_importFrom: Assets/AssetsPackage/Effect/Objects/Tex/UI/ui_main_94.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5078fc68ce2ac4b4982572d29b35b33c
+    m_importFrom: Assets/AssetsPackage/Effect/Prefab/UI/ef_ui_pet_rank_yellow_test.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df85c5346108ee847b34882c23c85b9e
+    m_importFrom: Assets/AssetsPackage/Effect/Prefab/UI/ef_ui_TaskFinish.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: daaa364c0829497409783356b2e72072
+    m_importFrom: Assets/AssetsPackage/Models/1001/Character.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e728fee1a32b5aa43bd1d2b97278a596
+    m_importFrom: Assets/AssetsPackage/Shaders/Model/Particles-Add-R.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38cf1c9b3c1f65148822c0282413459b
+    m_importFrom: Assets/AssetsPackage/Shaders/Model/Particles-Add-RGBA.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ed1496179af62141a090dbbc94a3303
+    m_importFrom: Assets/AssetsPackage/Shaders/UI/T_UIParticle.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1625a214433294c4f992ef4831ffcf0d
+    m_importFrom: Assets/AssetsPackage/FairyGUI/common_atlas0.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88d3ede65961fe542b7ce8d02ac27f03
+    m_importFrom: Assets/AssetsPackage/Js/buffer.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 454ca58b325c37645b9ad665ddb3db1d
+    m_importFrom: Assets/AssetsPackage/Js/long.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c297bcfa19351cf4d870a09f0c2f10a6
+    m_importFrom: Assets/AssetsPackage/Js/puerts/cjsload.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15893ed4bd36d3a48a2d6c2d1f41e5ec
+    m_importFrom: Assets/AssetsPackage/Js/puerts/csharp.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b2ded0f81761a545bff5e0018c3898a
+    m_importFrom: Assets/AssetsPackage/Js/puerts/events.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 806f4025472e23c408c1ea1746041439
+    m_importFrom: Assets/AssetsPackage/Js/puerts/flatbuffers.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 53cdfc0c6f332874fab5e8685438c7d2
+    m_importFrom: Assets/AssetsPackage/Js/puerts/init.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49bebaf2a9349294cb69127600403952
+    m_importFrom: Assets/AssetsPackage/Js/puerts/log.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dca2b3270e181f949b283ae5256c61d9
+    m_importFrom: Assets/AssetsPackage/Js/puerts/modular.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d135f3cb2cfdf2c45b5cd3fef2c19180
+    m_importFrom: Assets/AssetsPackage/Js/puerts/polyfill.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47b73497cc6035641a9122675df9fce9
+    m_importFrom: Assets/AssetsPackage/Js/puerts/promises.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 823e2f6c9dbf97944ab73dbfb59eac1b
+    m_importFrom: Assets/AssetsPackage/Js/puerts/timer.js
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24a8534a76725a4469b43a46c1cf8b0f
+    m_importFrom: Assets/AssetsPackage/Config/fb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000b000000000000000
+    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dd1f300d6062fee48bf00a13907517b6
+    m_importFrom: Assets/AddressableAssetsData/AddressableAssetSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 188047ee4b6ee5a42b7b6b2cba31bbe6
+    m_importFrom: Assets/AssetGraph/AddressableAssetGraph.asset
+    m_exportTo: 
+    m_variantName: 
   m_version: 2
