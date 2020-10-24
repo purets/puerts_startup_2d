@@ -46,8 +46,11 @@
 - Puerts 热更新框架 [NICE-TS](https://github.com/Justin-sky/Nice-TS)
 
   * Addressables 资源管理
+    * TODO: 用Typescript 加载 Addressables 资源
   * FairyGUI
+    * TODO: 剥离 FairyGUI 模块支持
   * 渲染管线: URP
+  * TODO: Unity DOTS 支持
   * 网络模块: protobufjs
   * Excel 导出 TS 工具 [NiceET](https://github.com/Justin-sky/Nice-ET/tree/master/Tools/ExcelExporter)
 
