@@ -23,6 +23,7 @@ node_modules
 !/Packages/manifest.json
 !/Packages/packages-lock.json
 !/Packages/app.*
+/Packages/*.meta
 
 /artisan
 
