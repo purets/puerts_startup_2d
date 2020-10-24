@@ -13,3 +13,9 @@
 [submodule "ServerData/home"]
 	path = ServerData/home
 	url = https://github.com/purets/laravel-manager.git
+[submodule "Packages/app.sqlite"]
+	path = Packages/app.sqlite
+	url = https://github.com/purets/2d_startup-app.sqlite.git
+[submodule "Packages/unity-ui-extensions"]
+	path = Packages/unity-ui-extensions
+	url = https://github.com/purets/unity-ui-extensions.git

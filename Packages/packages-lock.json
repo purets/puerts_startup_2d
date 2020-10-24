@@ -18,6 +18,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "app.sqlite": {
+      "version": "file:app.sqlite",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "app.ui": {
       "version": "file:app.ui",
       "depth": 0,
@@ -339,6 +345,12 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.cn"
+    },
+    "unity-ui-extensions": {
+      "version": "file:unity-ui-extensions",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
