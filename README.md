@@ -35,7 +35,7 @@
   * **[Web Api]** `app.web-api/` Web 功能模块
     * 包含 **[UniWebServer](https://github.com/simonwittber/uniwebserver)** 插件(提供 Http RESTful 服务) 
     * **Websocket** 服务端/客户端 
-    * **TeamDev Redis** 客户端
+    * **[TeamDev Redis](https://github.com/TeamDev-it/Teamdev-Redis-Client)** 客户端
   * **[unity-ui-extension]** `unity-ui-extension/` UGUI 扩展插件
 
 
