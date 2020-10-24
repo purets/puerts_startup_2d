@@ -32,6 +32,7 @@
     * 包含 DOTween 插件免费版
   * **[FairyGUI]** `app.ui/` FairyGUI 功能模块
   * **[Web Api]** `app.web-api/` Web 功能模块
+    * 包含 UniWebServer 插件(提供简单Http服务), Websocket 服务端/客户端, TeamDev Redis 客户端
   * **[unity-ui-extension]** `unity-ui-extension/` UGUI 扩展插件
 
 
