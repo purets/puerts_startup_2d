@@ -31,7 +31,7 @@
   
         npm install
         
-  安装依赖, 首次运行需要在 Unity 执行菜单项 **puerts/Generate Code** 生成接口文件, 接口文件位于`Assets/Gen/`目录下
+  安装依赖, 首次运行需要在 Unity 执行菜单项 **puerts -> Generate Code** 生成接口文件, 接口文件位于`Assets/Gen/`目录下
 
 - **FairyGUI 项目** 
 
@@ -39,7 +39,7 @@
   
 - **功能模块**
 
-  功能模块位于 `Packages/` 下, 可以选择性删除, 删除模块时需要注意模块间的依赖关系, 可能需要重新执行菜单项 **puerts/Clear Generated Code** 和 **puerts/Generate Code** 重新生成接口文件
+  功能模块位于 `Packages/` 下, 可以选择性删除, 删除模块时需要注意模块间的依赖关系, 可能需要重新执行菜单项 **puerts -> Clear Generated Code** 和 **puerts -> Generate Code** 重新生成接口文件
   
   **当前默认包含模块**
   
