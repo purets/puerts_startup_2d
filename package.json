@@ -6,6 +6,9 @@
 		"email": "86146002@qq.com"
 	},
 	"license": "MIT",
+	"publishConfig": { "registry": "https://npm.pkg.github.com/joycraft" },
+	"repository": "https://github.com/WindrunnerMax/Asse",
+
 	"scripts": {
 		"bundle:dev": "webpack --config webpack.config.debug.js --watch",
 		"bundle:publish": "webpack --config webpack.config.release.js"

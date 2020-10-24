@@ -1,9 +1,0 @@
-{
-    "name": "App.EasyTouch.Controllers.Editor",
-    "references": [
-        "App.EasyTouch"
-    ] ,
-    "includePlatforms": [
-        "Editor"
-    ]
-}

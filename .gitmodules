@@ -1,0 +1,15 @@
+[submodule "Packages/app.game"]
+	path = Packages/app.game
+	url = https://github.com/purets/2d_startup-app.game.git
+[submodule "Packages/app.ui"]
+	path = Packages/app.ui
+	url = https://github.com/purets/2d_startup-app.ui.git
+[submodule "Packages/app.easy-touch"]
+	path = Packages/app.easy-touch
+	url = https://github.com/purets/2d_startup-app.easy-touch.git
+[submodule "Packages/app.puerts"]
+	path = Packages/app.puerts
+	url = https://github.com/purets/2d_startup-app.puerts.git
+[submodule "ServerData/home"]
+	path = ServerData/home
+	url = https://github.com/purets/laravel-manager.git
