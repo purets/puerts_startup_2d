@@ -1,4 +1,4 @@
-# Puerts Unity 2D 项目原型
+# Puerts Typescript 热更新 Unity 2D 项目原型
 
 - [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
         
