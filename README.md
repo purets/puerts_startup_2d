@@ -27,7 +27,7 @@
   
   * **[Game]** `app.game/` 基础模块
   * **[Puerts]** `app.puerts/` Puerts 插件
-    * 当前版本: **Tag:v1.0.5,Plugin_Version:7**
+    * 当前版本: **[Tag:v1.0.5,Plugin_Version:7](https://github.com/Tencent/puerts/releases/tag/v1.0.5)**
   * **[SQLite4Unity]** `app.sqlite/` SQLite 插件
   * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
     * 包含 DOTween 插件免费版
