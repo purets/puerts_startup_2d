@@ -3,7 +3,7 @@
 - [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
         
 
-- 本项目包含子模块, 直接下载 Zip 文件会缺失 `Packages/*` 的功能模块, git 下载方式
+- 本项目包含子模块, 直接下载 [Zip 文件](https://github.com/purets/puerts_startup_2d/archive/main.zip) 会缺失 `Packages/*` 的功能模块, git 下载方式
 
         git clone --recursive https://github.com/purets/puerts_startup_2d.git
     
@@ -11,7 +11,7 @@
 
         git submodule update --init --recursive
     
-- **手动下载子模块** 如果使用 zip 方式下载本项目, 请同时下载下面的子模块并按原来的名字解压到 `Packages/` 文件夹里面
+- **手动下载子模块** 如果使用 [zip 方式](https://github.com/purets/puerts_startup_2d/archive/main.zip) 下载本项目, 请同时下载下面的子模块并按原来的名字解压到 `Packages/` 文件夹里面
 
   | 解压路径 | zip 文件 |
   | ---------- | --- |
