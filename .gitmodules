@@ -22,3 +22,6 @@
 [submodule "Packages/app.web-api"]
 	path = Packages/app.web-api
 	url = https://github.com/purets/2d_startup-app.web_api.git
+[submodule "Packages/app.tetris"]
+	path = Packages/app.tetris
+	url = https://github.com/purets/2d_startup-app.tetris.git

@@ -30,6 +30,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "app.tetris": {
+      "version": "file:app.tetris",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "app.ui": {
       "version": "file:app.ui",
       "depth": 0,
