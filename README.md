@@ -11,7 +11,7 @@
 
         git submodule update --init --recursive
     
-- **手动下载子模组** 如果使用 [zip 方式](https://github.com/purets/puerts_startup_2d/archive/main.zip) 下载本项目, 请同时下载下面的子模块并按原来的名字解压到 `Packages/` 文件夹里面
+- **手动下载子模组** 如果使用 [zip 方式](https://github.com/purets/puerts_startup_2d/archive/main.zip) 下载本项目, 请同时下载下面的功能模块并按原来的名字解压到 `Packages/` 文件夹里面
 
   | 解压路径 | zip 文件 |
   | ---------- | --- |
