@@ -29,6 +29,7 @@
   * **[Puerts]** `app.puerts/` Puerts 插件
   * **[SQLite4Unity]** `app.sqlite/` SQLite 插件
   * **[Tetris Template]** `app.tetris/` 俄罗斯方块游戏示例
+    * 包含 DOTween 插件免费版
   * **[FairyGUI]** `app.ui/` FairyGUI 功能模块
   * **[Web Api]** `app.web-api/` Web 功能模块
   * **[unity-ui-extension]** `unity-ui-extension/` UGUI 扩展插件
