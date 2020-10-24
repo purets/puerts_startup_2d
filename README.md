@@ -2,7 +2,7 @@
 
 - [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
 
-  * 包含 Puerts Typescript 热更新、热加载，整合 Addressables 的 Unity 项目模板
+  * 包含 Puerts Typescript 热更新、热加载，整合 Addressables、Unity ECS 的 Unity 项目模板
         
 
 - 本项目包含子模组, 直接下载 [Zip 文件](https://github.com/purets/puerts_startup_2d/archive/main.zip) 会缺失 `Packages/*` 文件夹里的功能模块, git 完整下载方式
