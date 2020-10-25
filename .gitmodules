@@ -25,3 +25,6 @@
 [submodule "Packages/app.tomino"]
 	path = Packages/app.tomino
 	url = https://github.com/purets/2d_startup-app.tomino.git
+[submodule "Packages/app.engine"]
+	path = Packages/app.engine
+	url = https://github.com/purets/2d_startup.app-engine.git
