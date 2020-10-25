@@ -29,11 +29,11 @@
   
 - **初始化安装与 Typescript 项目**
 
-  Typescript 源文件在 `Packages/<游戏模块>/src/` 里面, 在 **项目路径** 使用
+  Typescript 源文件在 `Packages/<游戏模块>/src/` 里面, 在 **项目路径** 使用如下命令**安装依赖**(需自行安装好 nodejs 运行环境)
   
         npm install
         
-  * **安装依赖**, 首次运行需要在 Unity 执行菜单项 **puerts -> Generate Code** 生成接口文件, 接口文件位于`Assets/Gen/`目录下
+  首次运行需要在 Unity 执行菜单项 **puerts -> Generate Code** 生成接口文件, 接口文件位于`Assets/Gen/`目录下
   
   * **开发模式** 编辑 Typescript 文件, 在 `Packages/<游戏模块>/` 路径下执行:
   
@@ -70,7 +70,7 @@
 ## 运行环境
 
 - 请在 Unity 2019.4 以上环境运行
-- 测试环境为 Windows 10 + WSL2 Linux 子系统
+- 测试环境为 Windows 10 + WSL2 Linux 子系统, Nodejs 10.0+
 
   
 ### 基于 NICE-TS 框架扩展
