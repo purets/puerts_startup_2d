@@ -53,18 +53,18 @@
   
   **当前默认包含模块**
   
-  * **[Game]** `app.game/` 基础模块
-  * **[Puerts]** `app.puerts/` [Puerts](https://github.com/Tencent/puerts) 插件
+  * **[Game]** `Packages/app.game/` 基础模块
+  * **[Puerts]** `Packages/app.puerts/` [Puerts](https://github.com/Tencent/puerts) 插件
     * 当前版本: **[Tag:v1.0.5,Plugin_Version:7](https://github.com/Tencent/puerts/releases/tag/v1.0.5)**
-  * **[SQLite4Unity]** `app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
-  * **[Tomino]** `app.tetrimo` 俄罗斯方块[(Tomino)](https://assetstore.unity.com/packages/templates/packs/tomino-159004) 示例
-  * **[Dungeon Crawler - Starter Kit]** `app.dungeon` 2D迷宫游戏示例
-  * **[FairyGUI]** `app.ui/` [FairyGUI](https://www.fairygui.com/) 功能模块
-  * **[Web Api]** `app.web-api/` Web 功能模块
+  * **[SQLite4Unity]** `Packages/app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
+  * **[Tomino]** `Packages/app.tetrimo/` 俄罗斯方块[(Tomino)](https://assetstore.unity.com/packages/templates/packs/tomino-159004) 示例
+  * **[Dungeon Crawler - Starter Kit]** `Packages/app.dungeon/` 2D迷宫游戏示例
+  * **[FairyGUI]** `Packages/app.ui/` [FairyGUI](https://www.fairygui.com/) 功能模块
+  * **[Web Api]** `Packages/app.web-api/` Web 功能模块
     * 包含 **[UniWebServer](https://github.com/simonwittber/uniwebserver)** 插件(提供 Http RESTful 服务) 
     * **Websocket** 服务端/客户端 
     * **[TeamDev Redis](https://github.com/TeamDev-it/Teamdev-Redis-Client)** 客户端
-  * **[unity-ui-extension]** `unity-ui-extension/` UGUI 扩展插件[(原版说明)](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/wiki/Home)
+  * **[unity-ui-extension]** `Packages/unity-ui-extension/` UGUI 扩展插件[(原版说明)](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/wiki/Home)
 
 
 ## 运行环境
