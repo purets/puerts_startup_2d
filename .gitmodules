@@ -1,27 +1,27 @@
 [submodule "Packages/app.game"]
 	path = Packages/app.game
 	url = https://github.com/purets/2d_startup-app.game.git
+
 [submodule "Packages/app.ui"]
 	path = Packages/app.ui
 	url = https://github.com/purets/2d_startup-app.ui.git
+
 [submodule "Packages/app.puerts"]
 	path = Packages/app.puerts
 	url = https://github.com/purets/2d_startup-app.puerts.git
-[submodule "ServerData/home"]
-	path = ServerData/home
-	url = https://github.com/purets/laravel-manager.git
+
 [submodule "Packages/app.sqlite"]
 	path = Packages/app.sqlite
 	url = https://github.com/purets/2d_startup-app.sqlite.git
+
 [submodule "Packages/unity-ui-extensions"]
 	path = Packages/unity-ui-extensions
 	url = https://github.com/purets/unity-ui-extensions.git
+
 [submodule "Packages/app.web-api"]
 	path = Packages/app.web-api
 	url = https://github.com/purets/2d_startup-app.web_api.git
-[submodule "Packages/app.dungeon"]
-	path = Packages/app.dungeon
-	url = https://github.com/purets/2d_startup-app.dungeon.git
+
 [submodule "Packages/app.tomino"]
 	path = Packages/app.tomino
 	url = https://github.com/purets/2d_startup-app.tomino.git
