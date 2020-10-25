@@ -1,8 +1,13 @@
-# Puerts Typescript 热更新 Unity 手游开发模板
 
-- [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
+# Boot Puerts
 
-  * 包含 Puerts Typescript 热更新、热加载，整合 Addressables、ECS(Entities) 的 Unity 单机手游项目模板
+Puerts Typescript 热更新 Unity 手游开发模板
+
+- 说明文档: [https://purets.github.io/BootPuerts](https://purets.github.io/BootPuerts)
+
+  * 包含 Puerts Typescript **热更新、热加载(PC端开发, 实时更新到手机真机运行)**
+  * **模块化**  所有功能通过 Packages/* 的自定义包提供
+  * 热更新+  Addressables 和 ECS(Entities) **整合解决方案**
         
 
 - 本项目包含子模组, 直接下载 [Zip 文件](https://github.com/purets/puerts_startup_2d/archive/main.zip) 会缺失 `Packages/*` 文件夹里的功能模块, git 完整下载方式
@@ -17,6 +22,7 @@
 
   | 解压路径 | zip 文件 |
   | ---------- | --- |
+  | **Packages/app.engine/** | [2d_startup-app.engine](https://github.com/purets/2d_startup-app.engine/archive/main.zip) |
   | **Packages/app.game/** | [2d_startup-app.game](https://github.com/purets/2d_startup-app.game/archive/main.zip) |
   | **Packages/app.puerts/** | [2d_startup-app.puerts](https://github.com/purets/2d_startup-app.puerts/archive/main.zip) |
   | **Packages/unity-ui-extensions/** | [unity-ui-extensions](https://github.com/purets/unity-ui-extensions/archive/main.zip) |
@@ -52,7 +58,8 @@
   
   **当前默认包含模块**
   
-  * **[Game]** `Packages/app.game/` 基础模块
+  * **[Engine]** `Packages/app.engine/` 基础模块
+  * **[Game]** `Packages/app.game/` 游戏基本功能演示
   * **[Puerts]** `Packages/app.puerts/` [Puerts](https://github.com/Tencent/puerts) 插件
     * 当前版本: **[Tag:v1.0.5,Plugin_Version:7](https://github.com/Tencent/puerts/releases/tag/v1.0.5)**
   * **[SQLite4Unity]** `Packages/app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
