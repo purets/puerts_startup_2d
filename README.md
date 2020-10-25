@@ -3,7 +3,7 @@
 
 Puerts Typescript 热更新 Unity 手游开发模板
 
-- [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
+- [说明文档: https://purets.github.io/BootPuerts](https://purets.github.io/BootPuerts) (更新中)
 
   * 包含 Puerts Typescript 热更新、热加载，整合 Addressables、ECS(Entities) 的 Unity 单机手游项目模板
         
