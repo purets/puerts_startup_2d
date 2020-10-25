@@ -24,7 +24,7 @@ node_modules
 !/Packages/packages-lock.json
 !/Packages/app.*
 /Packages/*.meta
-/Packages/*.*.meta
+
 
 
 /artisan
@@ -56,3 +56,4 @@ sysinfo.txt
 
 *.meta
 !*.*.meta
+/Packages/*.*.meta
