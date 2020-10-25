@@ -34,7 +34,7 @@
         
   首次运行需要在 Unity 执行菜单项 **puerts -> Generate Code** 生成接口文件, 接口文件位于`Assets/Gen/`目录下
   
-  * **开发模式** 编辑 Typescript 文件, 在 `Packages/<游戏模块>/` 路径下执行:
+  * **开发模式** 编辑 Typescript 文件, 自动监听文件更新, 在 `Packages/<游戏模块>/` 路径下执行:
   
         npm run dev
       
