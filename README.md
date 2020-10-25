@@ -1,7 +1,6 @@
 
-|  **Boot Puerts**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　|
-|          ---: |
-|Puerts Typescript 热更新 Unity 手游开发模板|
+# Boot Puerts
+-- Puerts Typescript 热更新 Unity 手游开发模板 --
 
 
 - [说明文档: purets.github.io/puerts_startup_2d/](https://purets.github.io/puerts_startup_2d/) (更新中)
