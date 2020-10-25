@@ -22,14 +22,13 @@
   | **Packages/unity-ui-extensions/** | [unity-ui-extensions](https://github.com/purets/unity-ui-extensions/archive/main.zip) |
   | **Packages/app.web_api/** | [2d_startup-app.web_api](https://github.com/purets/2d_startup-app.web_api/archive/main.zip) |
   | **Packages/app.tomino/** | [2d_startup-app.tomino](https://github.com/purets/2d_startup-app.tomino/archive/main.zip) |
-  | **Packages/app.dungeon/** | [2d_startup-app.dungeon](https://github.com/purets/2d_startup-app.dungeon/archive/main.zip) |
   | **Packages/app.ui/** | [2d_startup-app.ui](https://github.com/purets/2d_startup-app.ui/archive/main.zip) |
   | **Packages/app.sqlite/** | [2d_startup-app.sqlite](https://github.com/purets/2d_startup-app.sqlite/archive/main.zip) |
 
   
 - **初始化安装与 Typescript 项目**
 
-  Typescript 源文件在 `Packages/<游戏模块>/src/` 里面(当前 **<游戏模块>** 包括 **app.game**, **app.tomino** 和 **app.dungeon**), 在 **项目路径** 使用如下命令**安装依赖**(需自行安装好 nodejs 运行环境), 
+  Typescript 源文件在 `Packages/<游戏模块>/src/` 里面(当前 **<游戏模块>** 包括 **app.game**和**app.tomino** ), 在 **项目路径** 使用如下命令**安装依赖**(需自行安装好 nodejs 运行环境), 
   
         npm install
         
@@ -58,7 +57,6 @@
     * 当前版本: **[Tag:v1.0.5,Plugin_Version:7](https://github.com/Tencent/puerts/releases/tag/v1.0.5)**
   * **[SQLite4Unity]** `Packages/app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
   * **[Tomino]** `Packages/app.tetrimo/` 俄罗斯方块[(Tomino)](https://assetstore.unity.com/packages/templates/packs/tomino-159004) 示例
-  * **[Dungeon Crawler - Starter Kit]** `Packages/app.dungeon/` 2D迷宫游戏示例
   * **[FairyGUI]** `Packages/app.ui/` [FairyGUI](https://www.fairygui.com/) 功能模块
   * **[Web Api]** `Packages/app.web-api/` Web 功能模块
     * 包含 **[UniWebServer](https://github.com/simonwittber/uniwebserver)** 插件(提供 Http RESTful 服务) 
