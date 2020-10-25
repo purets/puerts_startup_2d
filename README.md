@@ -34,6 +34,14 @@
         npm install
         
   安装依赖, 首次运行需要在 Unity 执行菜单项 **puerts -> Generate Code** 生成接口文件, 接口文件位于`Assets/Gen/`目录下
+  
+  * **开发模式**编辑 Typescript 文件, 在 `Packages/<游戏模块>/` 路径下执行:
+  
+      npm run dev
+      
+  * **发布js文件** 在 `Packages/<游戏模块>/` 路径下执行:
+  
+      npm run build
 
 - **FairyGUI 项目** 
 
