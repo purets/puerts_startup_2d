@@ -56,7 +56,7 @@
   * **[Puerts]** `Packages/app.puerts/` [Puerts](https://github.com/Tencent/puerts) 插件
     * 当前版本: **[Tag:v1.0.5,Plugin_Version:7](https://github.com/Tencent/puerts/releases/tag/v1.0.5)**
   * **[SQLite4Unity]** `Packages/app.sqlite/` SQLite 插件[(原版)](https://github.com/robertohuertasm/SQLite4Unity3d)
-  * **[Tomino]** `Packages/app.tetrimo/` 俄罗斯方块[(Tomino)](https://assetstore.unity.com/packages/templates/packs/tomino-159004) 示例
+  * **[Tomino]** `Packages/app.tomino/` 俄罗斯方块[(Tomino)](https://assetstore.unity.com/packages/templates/packs/tomino-159004) 示例
   * **[FairyGUI]** `Packages/app.ui/` [FairyGUI](https://www.fairygui.com/) 功能模块
   * **[Web Api]** `Packages/app.web-api/` Web 功能模块
     * 包含 **[UniWebServer](https://github.com/simonwittber/uniwebserver)** 插件(提供 Http RESTful 服务) 
