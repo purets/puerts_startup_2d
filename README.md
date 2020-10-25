@@ -29,7 +29,7 @@
   
 - **初始化安装与 Typescript 项目**
 
-  Typescript 源文件在 `Packages/<游戏模块>/src/` 里面, 在 **项目路径** 使用如下命令**安装依赖**(需自行安装好 nodejs 运行环境)
+  Typescript 源文件在 `Packages/<游戏模块>/src/` 里面(当前 **<游戏模块>** 包括 **app.game**, **app.tomino** 和 **app.dungeon**), 在 **项目路径** 使用如下命令**安装依赖**(需自行安装好 nodejs 运行环境), 
   
         npm install
         
