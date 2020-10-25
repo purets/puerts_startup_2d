@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: module.game
+  m_EditorClassIdentifier: 
+  m_GroupName: module.game
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 13fb72b9efbd33f4f92e4a2fcb911ceb
+  m_SerializeEntries:
+  - m_GUID: 17e4d6899f312194c8b4d03fdbf59917
+    m_Address: dist
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - JS
+    m_MainAsset: {fileID: 102900000, guid: 17e4d6899f312194c8b4d03fdbf59917, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 17e4d6899f312194c8b4d03fdbf59917, type: 3}
+  - m_GUID: 38426673c6e20d54d94b3334ab62a708
+    m_Address: bundle.js
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - JS
+    m_MainAsset: {fileID: 4900000, guid: 38426673c6e20d54d94b3334ab62a708, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: 38426673c6e20d54d94b3334ab62a708, type: 3}
+  - m_GUID: eb25465b100079e4cafc50247df0e98f
+    m_Address: bundle-dev.js
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DEV
+    m_MainAsset: {fileID: 4900000, guid: eb25465b100079e4cafc50247df0e98f, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: eb25465b100079e4cafc50247df0e98f, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dd1f300d6062fee48bf00a13907517b6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b8f0d1afdb54fa144a52ab3dacf0da07, type: 2}

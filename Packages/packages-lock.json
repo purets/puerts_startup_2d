@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "app.dungeon": {
-      "version": "file:app.dungeon",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "app.game": {
       "version": "file:app.game",
       "depth": 0,
@@ -364,6 +358,12 @@
     },
     "mobi.joycraft.addons": {
       "version": "file:mobi.joycraft.addons",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "mobi.joycraft.dungeon": {
+      "version": "file:mobi.joycraft.dungeon",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

@@ -50,8 +50,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - JS
-    m_MainAsset: {fileID: 4900000, guid: 806f4025472e23c408c1ea1746041439, type: 3}
-    m_TargetAsset: {fileID: 4900000, guid: 806f4025472e23c408c1ea1746041439, type: 3}
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   - m_GUID: 823e2f6c9dbf97944ab73dbfb59eac1b
     m_Address: puerts/timer.js
     m_ReadOnly: 0
@@ -64,22 +64,15 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - JS
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 4900000, guid: 88d3ede65961fe542b7ce8d02ac27f03, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: 88d3ede65961fe542b7ce8d02ac27f03, type: 3}
   - m_GUID: c297bcfa19351cf4d870a09f0c2f10a6
     m_Address: puerts/cjsload.js
     m_ReadOnly: 0
     m_SerializedLabels:
     - JS
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
-  - m_GUID: c7b10208e30bfbd44920c8e7f639adf5
-    m_Address: bundle.js
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - JS
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 4900000, guid: c297bcfa19351cf4d870a09f0c2f10a6, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: c297bcfa19351cf4d870a09f0c2f10a6, type: 3}
   - m_GUID: d135f3cb2cfdf2c45b5cd3fef2c19180
     m_Address: puerts/polyfill.js
     m_ReadOnly: 0
@@ -92,8 +85,8 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels:
     - JS
-    m_MainAsset: {fileID: 0}
-    m_TargetAsset: {fileID: 0}
+    m_MainAsset: {fileID: 4900000, guid: dca2b3270e181f949b283ae5256c61d9, type: 3}
+    m_TargetAsset: {fileID: 4900000, guid: dca2b3270e181f949b283ae5256c61d9, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: dd1f300d6062fee48bf00a13907517b6, type: 2}
   m_SchemaSet:
