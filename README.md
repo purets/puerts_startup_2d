@@ -6,7 +6,7 @@ Puerts Typescript 热更新 Unity 手游开发模板
 - 说明文档: [https://purets.github.io/BootPuerts](https://purets.github.io/BootPuerts) (更新中)
 
   * 包含 Puerts Typescript 热更新、热加载，整合 Addressables、ECS(Entities) 的 Unity 单机手游项目模板
-  * **模块化** Assets/ 不包含脚本和资源文件, 只有必要的基础配置. 宛如空白项目一样的干净. 所有功能通过 Packages/* 的自定义包提供
+  * **模块化** Assets/ 不包含脚本和资源文件, 只有必要的基础配置. 宛如处女一般纯洁. 所有功能通过 Packages/* 的自定义包提供
         
 
 - 本项目包含子模组, 直接下载 [Zip 文件](https://github.com/purets/puerts_startup_2d/archive/main.zip) 会缺失 `Packages/*` 文件夹里的功能模块, git 完整下载方式
