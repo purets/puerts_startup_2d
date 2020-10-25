@@ -24,4 +24,4 @@
 	url = https://github.com/purets/2d_startup-app.dungeon.git
 [submodule "Packages/app.tomino"]
 	path = Packages/app.tomino
-	url = https://github.com/purets/2d_startup-app.domino.git
+	url = https://github.com/purets/2d_startup-app.tomino.git
