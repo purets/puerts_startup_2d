@@ -7,7 +7,7 @@ Puerts Typescript 热更新 Unity 手游开发模板
 
   * 包含 Puerts Typescript 热更新、热加载(PC端开发, 实时更新到手机真机运行)
   * 模块化  功能通过 Packages/* 的自定义包提供
-  * 热更新 + Addressables 和 ECS(Entities) 整合方案
+  * 热更新 + Addressables 和 Unity ECS(Entities) 整合方案
         
 
 - 本项目包含子模组, 直接下载 [Zip 文件](https://github.com/purets/puerts_startup_2d/archive/main.zip) 会缺失 `Packages/*` 文件夹里的功能模块, git 完整下载方式
