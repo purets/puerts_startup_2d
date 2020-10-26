@@ -59,3 +59,4 @@ sysinfo.txt
 *.meta
 !*.*.meta
 /Packages/*.*.meta
+/Assets/~*.*.meta
